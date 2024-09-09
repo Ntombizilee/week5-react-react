@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Ntombizilee/week5-react-react/tree/master/src"
+            href="https://github.com/Ntombizilee/week5-react-react"
             target="_blank"
             rel="noreferrer"
           >
