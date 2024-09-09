@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Ntombizilee/week5-react"
+            href="https://github.com/Ntombizilee/week5-react-react/tree/master/src"
             target="_blank"
             rel="noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>
           and{" "}
           <a
-            href="https://66db34ed4a655e6a7b7720ee--fastidious-salmiakki-c3ec4c.netlify.app/"
+            href="https://66def5d109c7050083d7a6d4--silver-sable-e52127.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
